@@ -1,0 +1,50 @@
+{
+    "thresholds": [
+        {
+            "label": "Beginner",
+            "value": 0.0
+        },
+        {
+            "label": "Intermediate",
+            "value": 0.26
+        },
+        {
+            "label": "Advanced/Expert",
+            "value": 0.76
+        }
+    ],
+    "data": [
+        {
+            "title": "Flutter",
+            "score": 0.75
+        },
+        {
+            "title": "C++",
+            "score": 0.05
+        },
+        {
+            "title": "Android Native (Kotlin)",
+            "score": 0.25
+        },
+        {
+            "title": "HTML, CSS",
+            "score": 0.2
+        },
+        {
+            "title": "Android Native (Java)",
+            "score": 0.25
+        },
+        {
+            "title": "NodeJS, JavaScript, TypeScript",
+            "score": 0.15
+        },
+        {
+            "title": "IOS Native (Swift)",
+            "score": 0.0
+        },
+        {
+            "title": "Version Control (GIT)",
+            "score": 0.65
+        }
+    ]
+}

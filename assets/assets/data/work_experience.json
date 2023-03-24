@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "name": "Solu Filantropi Teknologi, PT",
+            "period": "March 2020 - Present",
+            "address": "Ragunan, Jakarta Selatan",
+            "thumb": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/orange-and-black-design-template-logo-icon-d225e1dce23b44a25e755e220779b9ca_screen.jpg?ts=1596483534",
+            "href": null,
+            "timeline": [
+                {
+                    "title": "Mobile Apps Developer",
+                    "type": "Internship",
+                    "period": "May 2020 - March 2021",
+                    "description": "<ul><li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore similique, omnis, recusandae deserunt quod error odit sequi possimus rem laudantium distinctio, pariatur fuga atque esse porro illo quos in suscipit.</li><li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem hic repellendus dolor numquam, amet voluptatum vel nulla debitis cupiditate id animi earum ducimus accusantium tempora. Aperiam sequi possimus blanditiis harum?</li><li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus animi excepturi eveniet, doloribus, ea saepe iste quasi hic quas asperiores eum sint porro atque fugit tenetur. Est obcaecati voluptate illo!</li></ul>"
+                },
+                {
+                    "title": "Mobile Apps Developer",
+                    "type": "Contract",
+                    "period": "March 2021 - Present",
+                    "description": "<ul><li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore similique, omnis, recusandae deserunt quod error odit sequi possimus rem laudantium distinctio, pariatur fuga atque esse porro illo quos in suscipit.</li><li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem hic repellendus dolor numquam, amet voluptatum vel nulla debitis cupiditate id animi earum ducimus accusantium tempora. Aperiam sequi possimus blanditiis harum?</li><li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus animi excepturi eveniet, doloribus, ea saepe iste quasi hic quas asperiores eum sint porro atque fugit tenetur. Est obcaecati voluptate illo!</li></ul>"
+                }
+            ],
+            "tags": [
+                "Flutter", "Firebase"
+            ]
+        }
+    ]
+}
