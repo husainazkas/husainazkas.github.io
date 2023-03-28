@@ -1,0 +1,22 @@
+{
+    "nickname": "Husain",
+    "fullname": "Husain Fadhilah Azka Syamlan",
+    "email": "husainazkas@gmail.com",
+    "phone": "+6285162927497",
+    "address": "Jl. A Raya No. 19 RT.12/03 Kel. Jati Kec. Pulogadung, Jakarta Timur, 13220",
+    "description": "<div><p>Please feel welcome to contact me via email at husainazkas@gmail.com. Whether you would like to discuss a technology, a business opportunity, or simply say hello, I would be delighted to hear from you.</p></div>",
+    "externals": [
+        {
+            "label": "@husainazkas",
+            "url": "https://github.com/husainazkas/",
+            "icon": "github",
+            "type": "github"
+        },
+        {
+            "label": "Husain Fadhilah",
+            "url": "https://linkedin.com/in/husain-fadhilah",
+            "icon": "linkedin",
+            "type": "linkedin"
+        }
+    ]
+}
