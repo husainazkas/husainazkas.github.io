@@ -5,7 +5,7 @@
             "value": 0.0
         },
         {
-            "label": "Intermediate",
+            "label": "Middle/Intermediate",
             "value": 0.26
         },
         {
@@ -19,8 +19,8 @@
             "score": 0.75
         },
         {
-            "title": "C++",
-            "score": 0.05
+            "title": "CodeIgniter, PHP  ",
+            "score": 0.15
         },
         {
             "title": "Android Native (Kotlin)",
@@ -36,7 +36,7 @@
         },
         {
             "title": "NodeJS, JavaScript, TypeScript",
-            "score": 0.15
+            "score": 0.2
         },
         {
             "title": "IOS Native (Swift)",
@@ -44,7 +44,7 @@
         },
         {
             "title": "Version Control (GIT)",
-            "score": 0.65
+            "score": 0.7
         }
     ]
 }

@@ -1,39 +1,88 @@
 {
     "data": [
         {
-            "title": "Ini title",
-            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt, iste. Doloremque, libero nobis ipsam neque obcaecati reprehenderit porro incidunt, magnam nemo unde, omnis cupiditate dolores? Voluptatibus, ex! Ut, neque nihil?",
-            "image_url": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/orange-and-black-design-template-logo-icon-d225e1dce23b44a25e755e220779b9ca_screen.jpg?ts=1596483534",
-            "href": null,
-            "tags": [
-                "Kotlin", "Java", "Android Studio"
+            "header": "Android Project",
+            "contents": [
+                {
+                    "title": "RenalDocX",
+                    "body": "An app for any patients especially kidney issues patient. This app provides nearby hospital information using Google Maps API, book an appointment with hospital services, telemedicine consultation, healty tips and many more.",
+                    "image_url": "assets/images/projects/renaldocx.png",
+                    "href": "https://renaldocx.id",
+                    "tags": [
+                        "Flutter",
+                        "Healty App",
+                        "Google API",
+                        "Freelance"
+                    ]
+                },
+                {
+                    "title": "PPID Kemenparekraf",
+                    "body": "\"PPID\" app for Ministry of Tourism and Creative. This app contains articles, html parser (not a webview), download manager for documents, theme mode switch (dark or light), etc.",
+                    "image_url": "assets/images/projects/ppid_kemenparekraf.png",
+                    "href": "https://play.google.com/store/apps/details?id=id.kemenparekraf.ppid.id.kemenparekraf.ppid",
+                    "tags": [
+                        "Flutter",
+                        "Ministry",
+                        "Freelance"
+                    ]
+                },
+                {
+                    "title": "KantinGo (E-Kantin)",
+                    "body": "Local food service app for a school level. I've built with three separated apps, there are for Customers, Restaurants (Canteen Vendors), and Couriers. All of these are using Dynamic Links from Firebase for verification after register, and many more features.",
+                    "image_url": "assets/images/projects/kantin_go.png",
+                    "href": "https://play.google.com/store/apps/details?id=com.customer.kantingo",
+                    "tags": [
+                        "Flutter",
+                        "Firebase",
+                        "School",
+                        "Freelance"
+                    ]
+                },
+                {
+                    "title": "Telaga (Telaah Digital)",
+                    "body": "E-Learning app with a unique concept, this app use HTML 5 as a E-Book like videos but more interactive. Users can click and get explanation about the materials. The most awesome part is this app available for ChromeOS and Android platform. ",
+                    "image_url": null,
+                    "href": null,
+                    "tags": [
+                        "Flutter",
+                        "HTML 5",
+                        "ChromeOS",
+                        "School",
+                        "Freelance"
+                    ]
+                }
             ]
         },
         {
-            "title": "Ini title",
-            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt, iste. Doloremque, libero nobis ipsam neque obcaecati reprehenderit porro incidunt, magnam nemo unde, omnis cupiditate dolores? Voluptatibus, ex! Ut, neque nihil?",
-            "image_url": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/orange-and-black-design-template-logo-icon-d225e1dce23b44a25e755e220779b9ca_screen.jpg?ts=1596483534",
-            "href": null,
-            "tags": [
-                "Kotlin", "Java", "Android Studio"
+            "header": "Web Project",
+            "contents": [
+                {
+                    "title": "Web Portfolio",
+                    "body": "E-Portfolio on my own website. I made this web for a better manner and increase professionalism. Thank you for visit my website",
+                    "image_url": "assets/images/projects/web_portfolio.png",
+                    "href": "https://husainazkas.github.io",
+                    "tags": [
+                        "Flutter",
+                        "Flutter Web",
+                        "Github"
+                    ]
+                }
             ]
         },
         {
-            "title": "Ini title",
-            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt, iste. Doloremque, libero nobis ipsam neque obcaecati reprehenderit porro incidunt, magnam nemo unde, omnis cupiditate dolores? Voluptatibus, ex! Ut, neque nihil?",
-            "image_url": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/orange-and-black-design-template-logo-icon-d225e1dce23b44a25e755e220779b9ca_screen.jpg?ts=1596483534",
-            "href": null,
-            "tags": [
-                "Kotlin", "Java", "Android Studio"
-            ]
-        },
-        {
-            "title": "Ini title",
-            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt, iste. Doloremque, libero nobis ipsam neque obcaecati reprehenderit porro incidunt, magnam nemo unde, omnis cupiditate dolores? Voluptatibus, ex! Ut, neque nihil?",
-            "image_url": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/orange-and-black-design-template-logo-icon-d225e1dce23b44a25e755e220779b9ca_screen.jpg?ts=1596483534",
-            "href": null,
-            "tags": [
-                "Kotlin", "Java", "Android Studio"
+            "header": "Another Programming",
+            "contents": [
+                {
+                    "title": "Slidable Button (Flutter Package)",
+                    "body": "A simple customizable flutter slide button widget. This flutter package still maintained only by me. Note that: This is forked from another package which is unmaintained for a long time, so I decided to continue and improve this package.",
+                    "image_url": "assets/images/projects/slidable_button.png",
+                    "href": "https://pub.dev/packages/slidable_button",
+                    "tags": [
+                        "Flutter",
+                        "pub.dev",
+                        "Dependency"
+                    ]
+                }
             ]
         }
     ]
