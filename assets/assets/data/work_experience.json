@@ -4,24 +4,28 @@
             "name": "Solu Filantropi Teknologi, PT",
             "period": "March 2020 - Present",
             "address": "Ragunan, Jakarta Selatan",
-            "thumb": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/orange-and-black-design-template-logo-icon-d225e1dce23b44a25e755e220779b9ca_screen.jpg?ts=1596483534",
-            "href": null,
+            "thumb": "assets/images/work_experience/solu.jpeg",
+            "href": "https://solu.co.id",
             "timeline": [
-                {
-                    "title": "Mobile Apps Developer",
-                    "type": "Internship",
-                    "period": "May 2020 - March 2021",
-                    "description": "<ul><li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore similique, omnis, recusandae deserunt quod error odit sequi possimus rem laudantium distinctio, pariatur fuga atque esse porro illo quos in suscipit.</li><li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem hic repellendus dolor numquam, amet voluptatum vel nulla debitis cupiditate id animi earum ducimus accusantium tempora. Aperiam sequi possimus blanditiis harum?</li><li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus animi excepturi eveniet, doloribus, ea saepe iste quasi hic quas asperiores eum sint porro atque fugit tenetur. Est obcaecati voluptate illo!</li></ul>"
-                },
                 {
                     "title": "Mobile Apps Developer",
                     "type": "Contract",
                     "period": "March 2021 - Present",
-                    "description": "<ul><li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore similique, omnis, recusandae deserunt quod error odit sequi possimus rem laudantium distinctio, pariatur fuga atque esse porro illo quos in suscipit.</li><li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem hic repellendus dolor numquam, amet voluptatum vel nulla debitis cupiditate id animi earum ducimus accusantium tempora. Aperiam sequi possimus blanditiis harum?</li><li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus animi excepturi eveniet, doloribus, ea saepe iste quasi hic quas asperiores eum sint porro atque fugit tenetur. Est obcaecati voluptate illo!</li></ul>"
+                    "description": "<ul>\n\t<li>Migrating Flutter old&nbsp;project (Legacy) to Null Safety</li>\n\t<li>Implement RESTful API with Interceptors</li>\n\t<li>Working with BLoC, Route 2.0 (GoRouter), Localizations and many important 3rd party</li>\n\t<li>Implement Google APIs such as Geocoding, Google Maps, Geolocation, etc</li>\n\t<li>Implement Clean Architecture concepts and Domain-Driven Design</li>\n\t<li>Built android phone &amp; chrome book app</li>\n\t<li>Rebuilt android app native from Java into Kotlin with Google Maps API implemented in</li>\n\t<li>Built&nbsp;simple fullstack web app using ExpressJS with Restful API,&nbsp;Websocket, Axios (NodeJS)</li>\n</ul>\n"
+                },
+                {
+                    "title": "Mobile Apps Developer",
+                    "type": "Internship",
+                    "period": "May 2020 - March 2021",
+                    "description": "<ul>\n\t<li>Create and maintain HR Information System app with Flutter.</li>\n\t<li>Integrating Firebase services such as Cloud Functions, Firestore, Firebase Cloud Messaging (FCM).</li>\n\t<li>Build an API Chat that connected to Database and Firebase Cloud Message (Push Notification).</li>\n</ul>\n"
                 }
             ],
             "tags": [
-                "Flutter", "Firebase"
+                "Flutter",
+                "BLoC",
+                "Google API",
+                "Clean Architecture",
+                "Firebase"
             ]
         }
     ]

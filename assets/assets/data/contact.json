@@ -4,7 +4,7 @@
     "email": "husainazkas@gmail.com",
     "phone": "+6285162927497",
     "address": "Jl. A Raya No. 19 RT.12/03 Kel. Jati Kec. Pulogadung, Jakarta Timur, 13220",
-    "description": "<div><p>Please feel welcome to contact me via email at husainazkas@gmail.com. Whether you would like to discuss a technology, a business opportunity, or simply say hello, I would be delighted to hear from you.</p></div>",
+    "description": "<p style=\"display:inline;\"><span>Please feel welcome to contact me via email at </span><span id=\"email\"></span><span>. Whether you would like to discuss a technology, a business opportunity, or simply say hello, I would be delighted to hear from you.</span></p>",
     "externals": [
         {
             "label": "@husainazkas",
