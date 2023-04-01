@@ -3,11 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "009c9e65172e010890f7f65fde438006",
-"index.html": "03357d941fe7289d48ea5be15b57cb7e",
-"/": "03357d941fe7289d48ea5be15b57cb7e",
-"main.dart.js": "5227722a5e9c345373ee8eeaaa28f65f",
-"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
+  "version.json": "304c060da638f78d0869eebeb274b3ca",
+"index.html": "81641af7113d4db1d4ba865dcb9b3a64",
+"/": "81641af7113d4db1d4ba865dcb9b3a64",
+"main.dart.js": "71d8d8d13eb103c9551bafe2be809fde",
 "favicon.png": "151bc4ba7e602eb14c77545c995d1454",
 "icons/Icon-192.png": "9db091a6f15f389eb3539586db3dad7e",
 "icons/Icon-maskable-192.png": "9db091a6f15f389eb3539586db3dad7e",
@@ -32,11 +31,7 @@ const RESOURCES = {
 "assets/assets/data/work_experience.json": "2a7540e2248eb6047af84e844588bdcf",
 "assets/assets/data/contact.json": "1a01092927888dc5653d7ed8c77785f5",
 "assets/assets/data/educations.json": "00b6f7cd7696b2d7fc07c6c8ee04c378",
-"assets/assets/data/skills.json": "d4674c36356f9cd6a0f3f667afffe7ea",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
+"assets/assets/data/skills.json": "24915a8e47b42b45044f54f63c17c1b5"
 };
 
 // The application shell files that are downloaded before a service worker can
