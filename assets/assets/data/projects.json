@@ -1,16 +1,18 @@
 {
     "data": [
         {
-            "header": "Android Project",
+            "header": "Mobile Apps Project",
             "contents": [
                 {
                     "title": "RenalDocX",
-                    "body": "An app for any patients especially kidney issues patient. This app provides nearby hospital information using Google Maps API, book an appointment with hospital services, telemedicine consultation, healty tips and many more.",
+                    "body": "An app for any patients especially kidney deseases patient. This app provides nearby hospital information using Google Maps API, book an appointment with hospital services, telemedicine consultation, healthy tips and many more.",
                     "image_url": "assets/images/projects/renaldocx.png",
                     "href": "https://renaldocx.id",
                     "tags": [
                         "Flutter",
-                        "Healty App",
+                        "Android",
+                        "iOS",
+                        "Healthy App",
                         "Google API",
                         "Freelance"
                     ]
@@ -22,8 +24,23 @@
                     "href": "https://play.google.com/store/apps/details?id=id.kemenparekraf.ppid.id.kemenparekraf.ppid",
                     "tags": [
                         "Flutter",
+                        "Android",
+                        "iOS",
                         "Ministry",
                         "Freelance"
+                    ]
+                },
+                {
+                    "title": "Serv.D (HR Information System)",
+                    "body": "An app for HR assistant that allows to help manage attendances, leaves, payrolls, etc.",
+                    "image_url": "assets/images/projects/servd.png",
+                    "href": "https://play.google.com/store/apps/details?id=com.solu.servd",
+                    "tags": [
+                        "Flutter",
+                        "Android",
+                        "HRIS",
+                        "Absence",
+                        "Attendance"
                     ]
                 },
                 {
@@ -33,6 +50,8 @@
                     "href": "https://play.google.com/store/apps/details?id=com.customer.kantingo",
                     "tags": [
                         "Flutter",
+                        "Android",
+                        "iOS",
                         "Firebase",
                         "School",
                         "Freelance"
@@ -45,10 +64,10 @@
                     "href": null,
                     "tags": [
                         "Flutter",
-                        "HTML 5",
+                        "Android",
                         "ChromeOS",
-                        "School",
-                        "Freelance"
+                        "HTML 5",
+                        "School"
                     ]
                 }
             ]
@@ -64,7 +83,8 @@
                     "tags": [
                         "Flutter",
                         "Flutter Web",
-                        "Github"
+                        "Front-end Web",
+                        "Github Page"
                     ]
                 }
             ]
