@@ -16,35 +16,35 @@
     "data": [
         {
             "title": "Flutter",
-            "score": 0.75
+            "score": 0.85
         },
         {
             "title": "Object-Oriented Programming (OOP)",
-            "score": 0.55
+            "score": 0.9
         },
         {
             "title": "Android Native (Kotlin)",
-            "score": 0.25
+            "score": 0.4
         },
         {
             "title": "HTML, CSS",
-            "score": 0.15
-        },
-        {
-            "title": "Android Native (Java)",
             "score": 0.25
         },
         {
+            "title": "Android Native (Java)",
+            "score": 0.5
+        },
+        {
             "title": "NodeJS, JavaScript, TypeScript",
-            "score": 0.2
+            "score": 0.25
         },
         {
             "title": "IOS Native (Swift)",
-            "score": 0.0
+            "score": 0.05
         },
         {
             "title": "Version Control (GIT)",
-            "score": 0.7
+            "score": 0.8
         }
     ]
 }

@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#FFFFFF",
     "theme_color": "#34AAAC",
-    "description": "A new Flutter project.",
+    "description": "A simple web-based portfolio project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

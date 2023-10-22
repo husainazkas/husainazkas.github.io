@@ -1,21 +1,81 @@
 {
     "data": [
         {
+            "name": "Cilsy Fiolution, PT",
+            "period": "September 2023 - Present",
+            "address": "Cicendo, Bandung",
+            "thumb": "assets/images/work_experience/cilsy_fiolution.jpeg",
+            "href": "https://cilsyfiolution.com",
+            "timeline": [
+                {
+                    "title": "Mobile Apps Developer",
+                    "type": "Part-Time | Remote",
+                    "period": "June 2023 - Present",
+                    "description": "<ul>\n\t<li>Maintenance existing app for work and team management</li>\n\t<li>Implement flavors build</li>\n\t<li>Migrate old flutter project to the latest stable</li>\n\t<li>Publish Android and iOS app to Google Play and App Store</li>\n</ul>\n"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "Migration",
+                "Refactor"
+            ]
+        },
+        {
+            "name": "Tokio Marine Life Insurance, PT",
+            "period": "June 2023 - Present",
+            "address": "Setiabudi, Jakarta Selatan",
+            "thumb": "assets/images/work_experience/tmi.jpg",
+            "href": "https://tokiomarine-life.co.id",
+            "timeline": [
+                {
+                    "title": "Mobile Apps Developer",
+                    "type": "Full-Time | Hybrid",
+                    "period": "June 2023 - Present",
+                    "description": "<ul>\n\t<li>Maintenance existing app for agent sales</li>\n\t<li>Build CI/CD pipeline for automation build APK and IPA using Codemagic</li>\n</ul>\n"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "CI/CD",
+                "Codemagic"
+            ]
+        },
+        {
+            "name": "Frisidea Tech Indonesia, PT",
+            "period": "June 2023 - Present",
+            "address": "Tanah Abang, Jakarta Pusat",
+            "thumb": "assets/images/work_experience/frisidea.jpeg",
+            "href": "https://frisidea.com",
+            "timeline": [
+                {
+                    "title": "Mobile Apps Developer",
+                    "type": "Full-Time | Remote",
+                    "period": "June 2023 - Present",
+                    "description": "<ul>\n\t<li>Slicing UI with a lot of animations</li>\n\t<li>Implement fully Object Oriented Programming and Functional Programming</li>\n\t<li>Working with BLoC and Dependencies Injector</li>\n\t<li>Implement Clean Architecture concepts and Domain-Driven Design</li>\n\t<li>Buit Android and iOS app</li>\n</ul>\n"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "BLoC",
+                "Clean Architecture"
+            ]
+        },
+        {
             "name": "Solu Filantropi Teknologi, PT",
-            "period": "March 2020 - Present",
+            "period": "March 2020 - June 2023",
             "address": "Ragunan, Jakarta Selatan",
             "thumb": "assets/images/work_experience/solu.jpeg",
             "href": "https://solu.co.id",
             "timeline": [
                 {
                     "title": "Mobile Apps Developer",
-                    "type": "Contract",
-                    "period": "March 2021 - Present",
-                    "description": "<ul>\n\t<li>Migrating Flutter old&nbsp;project (Legacy) to Null Safety</li>\n\t<li>Implement RESTful API with Interceptors</li>\n\t<li>Working with BLoC, Route 2.0 (GoRouter), Localizations and many important 3rd party</li>\n\t<li>Implement Google APIs such as Geocoding, Google Maps, Geolocation, etc</li>\n\t<li>Implement Clean Architecture concepts and Domain-Driven Design</li>\n\t<li>Built android phone &amp; chrome book app</li>\n\t<li>Rebuilt android app native from Java into Kotlin with Google Maps API implemented in</li>\n\t<li>Built&nbsp;simple fullstack web app using ExpressJS with Restful API,&nbsp;Websocket, Axios (NodeJS)</li>\n</ul>\n"
+                    "type": "Full-Time | On-Site",
+                    "period": "March 2021 - June 2023",
+                    "description": "<ul>\n\t<li>Migrating Flutter old&nbsp;project (Legacy) to Null Safety</li>\n\t<li>Implement RESTful API with Interceptors</li>\n\t<li>Working with BLoC, Route 2.0 (GoRouter), Localizations and many important 3rd party</li>\n\t<li>Implement Google APIs such as Geocoding, Google Maps, Geolocation, etc</li>\n\t<li>Implement Clean Architecture concepts and Domain-Driven Design</li>\n\t<li>Built android phone &amp; chrome book app</li>\n\t<li>Rebuilt android app native from Java into Kotlin with Google Maps API implemented in</li>\n</ul>\n"
                 },
                 {
                     "title": "Mobile Apps Developer",
-                    "type": "Internship",
+                    "type": "Internship | On-Site",
                     "period": "May 2020 - March 2021",
                     "description": "<ul>\n\t<li>Create and maintain HR Information System app with Flutter.</li>\n\t<li>Integrating Firebase services such as Cloud Functions, Firestore, Firebase Cloud Messaging (FCM).</li>\n\t<li>Build an API Chat that connected to Database and Firebase Cloud Message (Push Notification).</li>\n</ul>\n"
                 }
