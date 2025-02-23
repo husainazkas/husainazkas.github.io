@@ -1,8 +1,69 @@
 {
     "data": [
         {
+            "name": "BerryPay (M) Sdn Bhd",
+            "period": "February 2024 - Present",
+            "address": "Selangor, Malaysia",
+            "thumb": "assets/images/work_experience/berrypay.jpg",
+            "href": "https://berrypay.com",
+            "timeline": [
+                {
+                    "title": "Mobile Apps Developer",
+                    "type": "Full-Time | Remote",
+                    "period": "February 2024 - Present",
+                    "description": "<ul>\n\t<li>Learn and research about FlutterFlow and its effectiveness of building Flutter App</li>\n\t<li>Migration project due to Flutter SDK upgrade</li>\n\t<li>Enhance quality code from thousands of linter warnings until zero</li>\n\t<li>Setup CI/CD pipeline for automation build APK and IPA using Gitlab CI/CD</li>\n\t<li>Split app into flavors for Staging and Production</li>\n\t<li>Maintenance e-Wallet app (BerryPay Malaysia app)</li>\n</ul>\n"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "GetX",
+                "CI/CD",
+                "FlutterFlow"
+            ]
+        },
+        {
+            "name": "Tokio Marine Life Insurance, PT",
+            "period": "June 2023 - April 2024",
+            "address": "Setiabudi, Jakarta Selatan",
+            "thumb": "assets/images/work_experience/tmi.jpg",
+            "href": "https://tokiomarine-life.co.id",
+            "timeline": [
+                {
+                    "title": "Mobile Apps Developer",
+                    "type": "Full-Time | Hybrid",
+                    "period": "June 2023 - Present",
+                    "description": "Outsourced by Frisidea Team\n<ul>\n\t<li>Maintenance existing app for agent sales</li>\n\t<li>Build CI/CD pipeline for automation build APK and IPA using Codemagic</li>\n</ul>\n"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "CI/CD",
+                "Codemagic"
+            ]
+        },
+        {
+            "name": "Frisidea Tech Indonesia, PT",
+            "period": "June 2023 - April 2024",
+            "address": "Tanah Abang, Jakarta Pusat",
+            "thumb": "assets/images/work_experience/frisidea.jpeg",
+            "href": "https://frisidea.com",
+            "timeline": [
+                {
+                    "title": "Mobile Apps Developer",
+                    "type": "Full-Time | Remote",
+                    "period": "June 2023 - Present",
+                    "description": "<ul>\n\t<li>Slicing UI with a lot of animations</li>\n\t<li>Implement fully Object Oriented Programming and Functional Programming</li>\n\t<li>Working with BLoC and Dependencies Injector</li>\n\t<li>Implement Clean Architecture concepts and Domain-Driven Design</li>\n\t<li>Built Android and iOS app</li>\n</ul>\n"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "BLoC",
+                "Clean Architecture"
+            ]
+        },
+        {
             "name": "Cilsy Fiolution, PT",
-            "period": "September 2023 - Present",
+            "period": "September 2023 - February 2024",
             "address": "Cicendo, Bandung",
             "thumb": "assets/images/work_experience/cilsy_fiolution.jpeg",
             "href": "https://cilsyfiolution.com",
@@ -18,46 +79,6 @@
                 "Flutter",
                 "Migration",
                 "Refactor"
-            ]
-        },
-        {
-            "name": "Tokio Marine Life Insurance, PT",
-            "period": "June 2023 - Present",
-            "address": "Setiabudi, Jakarta Selatan",
-            "thumb": "assets/images/work_experience/tmi.jpg",
-            "href": "https://tokiomarine-life.co.id",
-            "timeline": [
-                {
-                    "title": "Mobile Apps Developer",
-                    "type": "Full-Time | Hybrid",
-                    "period": "June 2023 - Present",
-                    "description": "<ul>\n\t<li>Maintenance existing app for agent sales</li>\n\t<li>Build CI/CD pipeline for automation build APK and IPA using Codemagic</li>\n</ul>\n"
-                }
-            ],
-            "tags": [
-                "Flutter",
-                "CI/CD",
-                "Codemagic"
-            ]
-        },
-        {
-            "name": "Frisidea Tech Indonesia, PT",
-            "period": "June 2023 - Present",
-            "address": "Tanah Abang, Jakarta Pusat",
-            "thumb": "assets/images/work_experience/frisidea.jpeg",
-            "href": "https://frisidea.com",
-            "timeline": [
-                {
-                    "title": "Mobile Apps Developer",
-                    "type": "Full-Time | Remote",
-                    "period": "June 2023 - Present",
-                    "description": "<ul>\n\t<li>Slicing UI with a lot of animations</li>\n\t<li>Implement fully Object Oriented Programming and Functional Programming</li>\n\t<li>Working with BLoC and Dependencies Injector</li>\n\t<li>Implement Clean Architecture concepts and Domain-Driven Design</li>\n\t<li>Buit Android and iOS app</li>\n</ul>\n"
-                }
-            ],
-            "tags": [
-                "Flutter",
-                "BLoC",
-                "Clean Architecture"
             ]
         },
         {

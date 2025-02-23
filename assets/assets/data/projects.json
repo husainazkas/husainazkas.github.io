@@ -4,20 +4,6 @@
             "header": "Mobile Apps Project",
             "contents": [
                 {
-                    "title": "RenalDocX",
-                    "body": "An app for any patients especially kidney deseases patient. This app provides nearby hospital information using Google Maps API, book an appointment with hospital services, telemedicine consultation, healthy tips and many more.",
-                    "image_url": "assets/images/projects/renaldocx.png",
-                    "href": "https://renaldocx.id",
-                    "tags": [
-                        "Flutter",
-                        "Android",
-                        "iOS",
-                        "Healthy App",
-                        "Google API",
-                        "Freelance"
-                    ]
-                },
-                {
                     "title": "PPID Kemenparekraf",
                     "body": "\"PPID\" app for Ministry of Tourism and Creative. This app contains articles, html parser (not a webview), download manager for documents, theme mode switch (dark or light), etc.",
                     "image_url": "assets/images/projects/ppid_kemenparekraf.png",
@@ -41,6 +27,20 @@
                         "HRIS",
                         "Absence",
                         "Attendance"
+                    ]
+                },
+                {
+                    "title": "RenalDocX",
+                    "body": "An app for any patients especially kidney deseases patient. This app provides nearby hospital information using Google Maps API, book an appointment with hospital services, telemedicine consultation, healthy tips and many more.",
+                    "image_url": "assets/images/projects/renaldocx.png",
+                    "href": "https://renaldocx.id",
+                    "tags": [
+                        "Flutter",
+                        "Android",
+                        "iOS",
+                        "Healthy App",
+                        "Google API",
+                        "Freelance"
                     ]
                 },
                 {
@@ -90,7 +90,7 @@
             ]
         },
         {
-            "header": "Another Programming",
+            "header": "Other Programming",
             "contents": [
                 {
                     "title": "Slidable Button (Flutter Package)",
